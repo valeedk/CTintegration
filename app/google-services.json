@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "435375318452",
+    "project_id": "ctintegration-c07ab",
+    "storage_bucket": "ctintegration-c07ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435375318452:android:44d284d86a9a17397bbee1",
+        "android_client_info": {
+          "package_name": "com.example.ctintegration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435375318452-88f0fjrr74ks4ip5jkef6q0p82s7lmaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk9otRmUbxzbwCw23EHcjWk5kaY9BHw8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435375318452-88f0fjrr74ks4ip5jkef6q0p82s7lmaf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
